@@ -45,6 +45,7 @@
 }
 
 .card-container {
+  min-width: 1000px;
   padding: 10px;
   background-color: #929090;
   display: grid;
